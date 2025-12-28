@@ -1,75 +1,59 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header"/>
-</div>
+# 💫 About Me
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="65%" valign="center">
-        <h1>Hi, I’m Thayanikabir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-        <p>
-          <b>🚀 AI Engineer & Full Stack Developer | 🇨🇦 Future Researcher</b>
-        </p>
-        <p>
-           I bridge the gap between <b>mathematical models</b> and <b>production systems</b>. My work focuses on building scalable AI agents, RAG systems, and Computer Vision pipelines that solve real-world civic and educational problems.
-        </p>
-        <br/>
-        <code>🔭 Working on: CivicLens (Smart City AI)</code><br>
-        <code>🌱 Learning: Advanced RAG & MLOps</code><br>
-        <code>🎵 Vibe: Seedhe Maut on repeat</code>
-        <br/><br/>
-        <a href="https://linkedin.com/in/thayanikabir">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-        <a href="mailto:thayanikabir.official@gmail.com">
-          <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-        </a>
-      </td>
-      <td width="35%" align="center">
-        <img src="https://github.com/kabirofficial.png" width="160px" style="border-radius: 50%; border: 4px solid #7aa2f7;">
-        <br/><br/>
-        <img src="https://komarev.com/ghpvc/?username=kabirofficial&label=Views&color=7aa2f7&style=flat-square"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=👋+Hi,+I'm+Kabir+Thayani+A.K.A+Jingg;🚀+AI%2FML+Enthusiast;💻+Full+Stack+Developer;🇨🇦+Aspiring+Researcher" alt="Typing SVG" />
+</a>
 
-### 🛠️ Technical Arsenal
+AI/ML-focused Computer Science student with strong foundations in Python and hands-on experience through internships and personal projects. Actively building skills in machine learning, deep learning, and full-stack AI applications.
 
-<div align="center">
+- 🔭 I’m currently working on **Applied AI Research & Scalable Solutions**
+- 🌱 I’m currently learning **Advanced Deep Learning & MLOps**
+- 🥅 Goals: Pursuing advanced studies in AI/ML in Canada 🇨🇦
 
-| **Domain** | **Stack** |
-| :--- | :--- |
-| **🧠 Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow) |
-| **👁️ Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black) |
-| **⚙️ Backend & RAG** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
-| **📊 Data Science** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thayanikabir_01/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thayanikabir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thayanikabir.official@gmail.com)
 
-</div>
+---
 
-### 📂 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Type | Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **👁️ CivicLens**<br><sub>AI-powered civic intelligence for detecting urban issues (potholes, garbage).</sub> | `Comp. Vision` | ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black) | ![Active](https://img.shields.io/badge/Active-success) |
-| **📄 AI Resume Screener**<br><sub>RAG system that parses resumes and matches candidates via Vector Search.</sub> | `NLP / RAG` | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-005571?logo=meta) | ![Beta](https://img.shields.io/badge/Beta-blue) |
-| **📚 Syllaby**<br><sub>Intelligent academic assistant for querying course syllabi and notes.</sub> | `NLP / RAG` | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi) | ![Completed](https://img.shields.io/badge/Done-inactive) |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **CivicLens** | AI-powered system for detecting and reporting civic issues. | ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv) |
+| **AI Resume Screening** | Automated tool to rank and parse resumes based on job descriptions. | ![NLP](https://img.shields.io/badge/-NLP-333?style=flat) ![Scikit-Learn](https://img.shields.io/badge/-Sklearn-333?style=flat) |
+| **Syllaby** | Intelligent syllabus planning and educational tracking tool. | ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi) |
 
-### 📈 Coding Activity
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kabirofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirofficial&layout=compact&theme=tokyonight&hide_border=true&card_width=320" height="150" alt="languages graph" />
-</div>
+## 💻 Tech Stack
 
-<br/>
+### 🤖 AI, Data Science & Machine Learning
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-<div align="center">
-  <a href="https://buymeacoffee.com/jinggxd">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-</div>
+### 🌐 Full Stack & Web Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=footer"/>
-</div>
+### ☁️ Cloud, Databases & Hosting
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+### 🛠 Tools & Design
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=kabirofficial&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=kabirofficial&theme=blue_navy&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirofficial&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kabirofficial&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kabirofficial&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 💰 Support Me
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jinggxd)
